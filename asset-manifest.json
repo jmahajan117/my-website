@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cd64d03.css",
-    "main.js": "/static/js/main.fdfeced5.js",
-    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
-    "static/media/mine.gif": "/static/media/mine.871aa5c4e7bf2a84fa30.gif",
-    "static/media/little_teaser.gif": "/static/media/little_teaser.613cabdee342a78c1c7b.gif",
-    "static/media/minecraft.webp": "/static/media/minecraft.51a34d8f6b1a43c27807.webp",
-    "static/media/self2.jpeg": "/static/media/self2.8c8edc3c09fefce57475.jpeg",
-    "index.html": "/index.html",
-    "main.5cd64d03.css.map": "/static/css/main.5cd64d03.css.map",
-    "main.fdfeced5.js.map": "/static/js/main.fdfeced5.js.map",
-    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/home/static/css/main.5cd64d03.css",
+    "main.js": "/home/static/js/main.3a818fb1.js",
+    "static/js/787.bbe01249.chunk.js": "/home/static/js/787.bbe01249.chunk.js",
+    "static/media/mine.gif": "/home/static/media/mine.871aa5c4e7bf2a84fa30.gif",
+    "static/media/little_teaser.gif": "/home/static/media/little_teaser.613cabdee342a78c1c7b.gif",
+    "static/media/minecraft.webp": "/home/static/media/minecraft.51a34d8f6b1a43c27807.webp",
+    "static/media/self2.jpeg": "/home/static/media/self2.8c8edc3c09fefce57475.jpeg",
+    "index.html": "/home/index.html",
+    "main.5cd64d03.css.map": "/home/static/css/main.5cd64d03.css.map",
+    "main.3a818fb1.js.map": "/home/static/js/main.3a818fb1.js.map",
+    "787.bbe01249.chunk.js.map": "/home/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cd64d03.css",
-    "static/js/main.fdfeced5.js"
+    "static/js/main.3a818fb1.js"
   ]
 }
